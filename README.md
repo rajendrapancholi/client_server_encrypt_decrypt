@@ -55,7 +55,7 @@ The project demonstrates secure data transfer between a **client** and a **serve
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ClientServerEncryption
+   cd client_server_encrypt_decrypt
    ```
 3. Open the project in your preferred IDE.
 
